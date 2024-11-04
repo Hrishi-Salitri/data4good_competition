@@ -1,0 +1,61 @@
+Id,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,q21,q22,label
+"0_ Immediate Grief, Shock, and Emotion",1,3,2,2,2,2,2,3,0,1,3,0,2,3,1,1,1,1,2,0,,,1
+0_ Navigating Family Relationships,1,3,2,2,2,2,2,2,1,2,2,2,2,2,0,3,2,1,2,2,,,2
+0_ Learning to Process Grief,1,2,2,2,2,2,1,1,1,2,3,2,2,2,2,2,1,2,2,2,,,3
+0_ Moments That Matter,1,0,2,2,2,2,3,2,2,2,2,2,2,3,1,3,2,0,2,2,,,4
+"0_ Feeling Immersed, Connected & Seen",1,3,2,2,2,2,7,2,2,2,2,2,2,2,2,3,2,2,2,2,,,5
+0_ New Growth & Purpose,1,5,2,2,2,2,0,2,3,2,2,2,2,Q1,3,3,2,3,2,3,,,6
+"1_ Immediate Grief, Shock, and Emotion",1,2,2,2,2,2,1,3,0,1,2,1,2,2,1,2,1,0,2,1,,,1
+1_ Navigating Family Relationships,1,5,2,2,2,2,2,3,1,2,2,2,2,2,2,3,2,2,2,2,,,2
+1_ Learning to Process Grief,1,1,2,2,2,2,2,1,2,2,2,2,2,2,2,3,2,2,2,2,,,3
+1_ Moments That Matter,1,5,2,2,2,2,1,2,2,2,2,2,2,2,1,1,2,2,2,2,,,4
+"1_ Feeling Immersed, Connected & Seen",1,5,2,2,2,2,3,1,3,3,3,2,3,2,2,3,2,2,2,2,,,5
+1_ New Growth & Purpose,1,0,2,2,2,2,0,3,3,3,3,3,3,2,2,3,2,3,2,3,,,6
+"2_ Immediate Grief, Shock, and Emotion",1,3,2,2,1,2,2,2,3,1,2,2,2,3,1,2,1,1,2,2,,,1
+2_ Navigating Family Relationships,1,3,2,2,2,2,3,3,0,2,2,2,2,1,2,3,3,3,2,2,,,2
+2_ Learning to Process Grief,1,3,2,2,2,2,2,1,2,2,2,2,2,2,1,Example,2,Q1,2,2,,,3
+2_ Moments That Matter,1,5,2,2,2,2,0,0,2,1,2,2,2,2,2,2,2,1,2,2,,,4
+"2_ Feeling Immersed, Connected & Seen",1,2,2,2,2,2,0,2,2,2,3,2,2,3,2,2,1,2,2,2,,,5
+2_ New Growth & Purpose,1,2,2,2,2,2,1,1,2,2,0,3,2,2,2,3,2,3,2,3,,,6
+"3_ Immediate Grief, Shock, and Emotion",1,2,2,2,2,0,4,1,1,0,2,1,2,2,1,2,1,0,2,1,,,1
+3_ Navigating Family Relationships,1,3,2,2,2,2,2,4,2,Q2,3,2,2,3,0,2,1,2,2,2,,,2
+3_ Learning to Process Grief,1,1,2,2,2,2,1,2,2,2,2,1,2,2,Q1,2,2,1,2,2,,,3
+3_ Moments That Matter,1,5,2,2,1,2,1,2,Q2,2,2,2,2,2,0,2,2,1,2,2,,,4
+"3_ Feeling Immersed, Connected & Seen",1,5,2,2,2,2,1,2,2,3,2,2,3,2,2,3,2,3,2,2,,,5
+3_ New Growth & Purpose,1,1,2,2,2,2,1,2,3,3,3,3,3,2,2,3,3,3,2,3,,,6
+"4_ Immediate Grief, Shock, and Emotion",1,5,2,2,2,2,1,2,1,0,3,0,1,2,1,1,1,0,2,1,,,1
+4_ Navigating Family Relationships,1,5,2,2,2,2,2,2,1,Example,2,2,2,1,2,3,2,2,1,2,,,2
+4_ Learning to Process Grief,1,2,2,2,2,2,2,1,2,Q1,2,2,2,2,2,2,2,2,2,2,,,3
+4_ Moments That Matter,3,2,2,2,2,2,2,2,1,2,2,2,2,2,2,Example,2,2,2,2,,,4
+"4_ Feeling Immersed, Connected & Seen",1,5,2,2,2,2,1,2,2,2,1,2,2,2,2,3,2,2,3,2,,,5
+4_ New Growth & Purpose,1,0,2,2,2,2,0,2,3,2,3,2,3,2,3,3,3,3,2,3,,,6
+"5_ Immediate Grief, Shock, and Emotion",1,5,2,2,2,2,2,2,0,2,3,1,2,2,1,2,2,0,1,1,,,1
+5_ Navigating Family Relationships,1,2,2,2,2,2,3,3,1,2,3,2,2,2,2,2,2,Q1,2,2,,,2
+5_ Learning to Process Grief,1,3,2,2,2,2,0,2,2,2,2,2,2,2,Example,2,2,2,2,2,,,3
+5_ Moments That Matter,3,3,2,2,2,2,2,2,2,2,2,1,2,2,Example,2,2,2,2,2,,,4
+"5_ Feeling Immersed, Connected & Seen",1,2,2,2,2,2,1,3,2,2,2,2,2,2,2,2,3,2,2,2,,,5
+5_ New Growth & Purpose,1,4,2,2,2,2,0,2,3,3,0,3,2,2,2,3,2,3,2,2,,,6
+"6_ Immediate Grief, Shock, and Emotion",1,5,2,2,2,2,2,2,0,0,3,1,0,3,2,2,1,0,2,1,,,1
+6_ Navigating Family Relationships,1,0,1,2,1,2,2,2,2,3,3,2,2,2,2,3,3,2,2,2,,,2
+6_ Learning to Process Grief,1,3,2,2,2,2,0,3,2,2,2,2,2,2,1,Q1,2,Q2,2,2,,,3
+6_ Moments That Matter,1,5,2,2,2,2,1,3,2,2,2,1,2,2,2,2,2,2,2,2,,,4
+"6_ Feeling Immersed, Connected & Seen",1,1,2,2,2,2,0,3,2,2,1,2,2,2,2,3,2,3,2,2,,,5
+6_ New Growth & Purpose,1,5,2,2,2,2,0,2,3,2,0,3,2,2,2,3,2,3,3,3,,,6
+"7_ Immediate Grief, Shock, and Emotion",0,5,2,2,2,2,1,2,1,0,2,1,2,2,1,3,1,1,1,2,,,1
+7_ Navigating Family Relationships,1,7,0,2,2,2,1,2,3,0,2,2,2,2,2,2,2,2,2,2,,,2
+7_ Learning to Process Grief,1,5,2,2,2,2,0,0,Q1,2,2,2,1,2,2,2,2,2,2,2,,,3
+7_ Moments That Matter,1,5,2,2,2,1,0,2,2,1,2,2,2,2,1,2,2,1,2,2,,,4
+"7_ Feeling Immersed, Connected & Seen",1,3,2,2,2,2,1,2,2,2,0,2,2,2,3,2,2,2,2,2,,,5
+7_ New Growth & Purpose,1,1,2,2,2,2,4,3,3,3,0,2,3,2,2,3,3,2,3,3,,,6
+"8_ Immediate Grief, Shock, and Emotion",1,0,2,2,2,2,3,2,1,2,2,1,2,3,1,2,1,0,1,2,,,1
+8_ Navigating Family Relationships,1,0,1,1,2,2,2,3,2,2,3,1,3,2,Q1,2,2,1,2,2,,,2
+8_ Learning to Process Grief,1,5,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,,,3
+8_ Moments That Matter,1,0,2,2,2,2,0,2,1,2,2,1,2,2,Q1,2,2,2,2,2,,,4
+"8_ Feeling Immersed, Connected & Seen",1,2,2,2,2,2,2,2,2,2,1,2,2,2,2,3,2,2,2,2,,,5
+8_ New Growth & Purpose,1,5,2,2,2,2,0,2,3,3,2,2,2,2,2,3,2,3,2,3,,,6
+"9_ Immediate Grief, Shock, and Emotion",1,2,2,2,2,2,2,2,0,0,3,1,2,2,3,3,1,0,1,2,,,1
+9_ Navigating Family Relationships,1,5,2,2,1,2,2,2,2,Q1,3,2,2,2,2,2,2,2,2,1,,,2
+9_ Learning to Process Grief,1,5,2,2,2,2,4,3,2,1,2,2,Q1,2,2,2,2,2,2,2,,,3
+9_ Moments That Matter,1,3,2,2,2,2,2,2,2,0,2,2,3,2,Q1,2,2,1,2,2,,,4
+"9_ Feeling Immersed, Connected & Seen",1,5,2,2,2,2,1,3,2,2,3,2,2,2,2,2,2,2,2,2,,,5
+9_ New Growth & Purpose,1,2,2,2,2,2,0,Q1,2,2,3,2,2,2,2,3,3,3,2,3,,,6
